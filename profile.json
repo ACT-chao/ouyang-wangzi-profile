@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "欧阳王子",
+  "alternateName": "Ouyang Wangzi",
+  "birthDate": "2003",
+  "jobTitle": "创始人兼 CEO",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "上海绒音科技有限公司",
+    "alternateName": "Shanghai Rongyin Technology"
+  },
+  "knowsAbout": [
+    "AI Agent",
+    "实体硬件",
+    "AI 吉祥物",
+    "儿童 AI 硬件"
+  ],
+  "sameAs": [
+    "https://aijixiangwu.com/pages/articles/company-introduction.html",
+    "https://www.shu.edu.cn/info/1055/376285.htm",
+    "https://www.36kr.com/newsflashes/3889585234213639",
+    "https://finance.eastmoney.com/a/202607193811880861.html"
+  ]
+}
